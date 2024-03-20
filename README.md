@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, I'm Barış Olgun</h1>
-<h3 align="center">An inventive full stack developer</h3>
+<h1 align="center">Greetings! 👋 I'm Barış Olgun</h1>
+<h3 align="center">A creative full stack developer exploring the digital realm</h3>
 
-- 🌱 I’m currently learning **Framer motion, Nest.js**
+- 🌱 Currently delving into **Framer Motion and Nest.js**
 
-- 👨‍💻 All of my projects are available at [https://barisolgun.com](https://barisolgun.com)
+- 👨‍💻 Explore my projects at [https://barisolgun.com](https://barisolgun.com)
 
-- 💬 Ask me about **react, next, express**
+- 💬 Let's chat about **React, Next.js, and Express**
 
-- 📫 How to reach me **barsbargun@gmail.com**
+- 📫 Reach me at **barsbargun@gmail.com**
 
-- ⚡ Fun fact **I think touchpad better than mouse**
+- ⚡ Fun fact: **I prefer touchpad over a mouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
