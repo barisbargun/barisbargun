@@ -1,15 +1,11 @@
 <h1 align="center">Greetings! 👋 I'm Barış Olgun</h1>
-<h3 align="center">A creative full stack developer exploring the digital realm</h3>
+<h3 align="center">I love to develop fascinating websites.</h3>
 
-- 🌱 Currently delving into **Framer Motion and Nest.js**
+- 🌱 Currently delving into **Next.js and Vue**
 
 - 👨‍💻 Explore my projects at [https://barisolgun.com](https://barisolgun.com)
 
-- 💬 Let's chat about **React, Next.js, and Express**
-
 - 📫 Reach me at **barsbargun@gmail.com**
-
-- ⚡ Fun fact: **I prefer touchpad over a mouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
